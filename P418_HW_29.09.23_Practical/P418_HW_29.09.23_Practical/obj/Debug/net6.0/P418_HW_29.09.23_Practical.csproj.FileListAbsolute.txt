@@ -1,0 +1,14 @@
+C:\Users\Omara\OneDrive\Desktop\P418_HW_29.09.23\P418_HW_29.09.23_Practical\P418_HW_29.09.23_Practical\obj\Debug\net6.0\P418_HW_29.09.23_Practical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omara\OneDrive\Desktop\P418_HW_29.09.23\P418_HW_29.09.23_Practical\P418_HW_29.09.23_Practical\obj\Debug\net6.0\P418_HW_29.09.23_Practical.AssemblyInfoInputs.cache
+C:\Users\Omara\OneDrive\Desktop\P418_HW_29.09.23\P418_HW_29.09.23_Practical\P418_HW_29.09.23_Practical\obj\Debug\net6.0\P418_HW_29.09.23_Practical.AssemblyInfo.cs
+C:\Users\Omara\OneDrive\Desktop\P418_HW_29.09.23\P418_HW_29.09.23_Practical\P418_HW_29.09.23_Practical\obj\Debug\net6.0\P418_HW_29.09.23_Practical.csproj.CoreCompileInputs.cache
+C:\Users\Omara\OneDrive\Desktop\P418_HW_29.09.23\P418_HW_29.09.23_Practical\P418_HW_29.09.23_Practical\bin\Debug\net6.0\P418_HW_29.09.23_Practical.exe
+C:\Users\Omara\OneDrive\Desktop\P418_HW_29.09.23\P418_HW_29.09.23_Practical\P418_HW_29.09.23_Practical\bin\Debug\net6.0\P418_HW_29.09.23_Practical.deps.json
+C:\Users\Omara\OneDrive\Desktop\P418_HW_29.09.23\P418_HW_29.09.23_Practical\P418_HW_29.09.23_Practical\bin\Debug\net6.0\P418_HW_29.09.23_Practical.runtimeconfig.json
+C:\Users\Omara\OneDrive\Desktop\P418_HW_29.09.23\P418_HW_29.09.23_Practical\P418_HW_29.09.23_Practical\bin\Debug\net6.0\P418_HW_29.09.23_Practical.dll
+C:\Users\Omara\OneDrive\Desktop\P418_HW_29.09.23\P418_HW_29.09.23_Practical\P418_HW_29.09.23_Practical\bin\Debug\net6.0\P418_HW_29.09.23_Practical.pdb
+C:\Users\Omara\OneDrive\Desktop\P418_HW_29.09.23\P418_HW_29.09.23_Practical\P418_HW_29.09.23_Practical\obj\Debug\net6.0\P418_HW_29.09.23_Practical.dll
+C:\Users\Omara\OneDrive\Desktop\P418_HW_29.09.23\P418_HW_29.09.23_Practical\P418_HW_29.09.23_Practical\obj\Debug\net6.0\refint\P418_HW_29.09.23_Practical.dll
+C:\Users\Omara\OneDrive\Desktop\P418_HW_29.09.23\P418_HW_29.09.23_Practical\P418_HW_29.09.23_Practical\obj\Debug\net6.0\P418_HW_29.09.23_Practical.pdb
+C:\Users\Omara\OneDrive\Desktop\P418_HW_29.09.23\P418_HW_29.09.23_Practical\P418_HW_29.09.23_Practical\obj\Debug\net6.0\P418_HW_29.09.23_Practical.genruntimeconfig.cache
+C:\Users\Omara\OneDrive\Desktop\P418_HW_29.09.23\P418_HW_29.09.23_Practical\P418_HW_29.09.23_Practical\obj\Debug\net6.0\ref\P418_HW_29.09.23_Practical.dll
